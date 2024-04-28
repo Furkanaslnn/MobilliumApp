@@ -34,11 +34,11 @@ Geliştirme sürecinde veritabanına farklı kullanıcılar açmak ve şifreleri
 ## [Ekran Görüntüleri](#ekran-görüntüleri)
 
 - Uygulamamızı başlattığımızda karşımıza login ekranımız geliyor. Burada hesabımız yok ise sign in diyerek kayıt olma ekranına geçebiliriz.
-![loginScreen](/EkranGörüntüleri/loginScreen.png)
+- ![loginScreen](/EkranGörüntüleri/loginScreen.png)
 </br>
 
 - Sign in ekranımızda kullanıcı adı ve şifre oluşturarak kayıt olalım.
-![SignInScreen](/EkranGörüntüleri/SignInScreen.png)
+- ![SignInScreen](/EkranGörüntüleri/SignInScreen.png)
 </br>
 
 - Başarılı bir şekilde kayıt olduk mesajını alıyoruz.
