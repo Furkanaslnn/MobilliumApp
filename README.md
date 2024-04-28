@@ -27,7 +27,12 @@
 
 Geliştirme sürecinde veritabanına farklı kullanıcılar açmak ve şifreleri kaydetmek konusunda sıkıntılar yaşadım bu sıkıntıları youtube, udemy, forumlar, vb. gibi farklı eğitim platformlarından araştırarak sorunlarımı çözmeye çalıştım.
 
+## App İçerisinden Örnek Gif
+
+![Uygulama Örneği](/EkranGörüntüleri/example.gif)
+
 ## Ekran Görüntüleri
+
 - Uygulamamızı başlattığımızda karşımıza login ekranımız geliyor. Burada hesabımız yok ise sign in diyerek kayıt olma ekranına geçebiliriz.
 - ![loginScreen](/EkranGörüntüleri/loginScreen.png)
 
@@ -53,6 +58,5 @@ Geliştirme sürecinde veritabanına farklı kullanıcılar açmak ve şifreleri
 - ![SearchPassword](/EkranGörüntüleri/SearchPassword.png)
 - ![SearchPassword2](/EkranGörüntüleri/SearchPassword2.png)
 
-## App İçerisinden Örnek Gif
-![Uygulama Örneği](/EkranGörüntüleri/example.gif)
+
 
