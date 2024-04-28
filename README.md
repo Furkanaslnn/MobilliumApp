@@ -30,18 +30,25 @@ Geliştirme sürecinde veritabanına farklı kullanıcılar açmak ve şifreleri
 ## Ekran Görüntüleri
 - Uygulamamızı başlattığımızda karşımıza login ekranımız geliyor. Burada hesabımız yok ise sign in diyerek kayıt olma ekranına geçebiliriz.
 ![loginScreen](/EkranGörüntüleri/loginScreen.png)
+
 - Sign in ekranımızda kullanıcı adı ve şifre oluşturarak kayıt olalım.
 ![SignInScreen](/EkranGörüntüleri/SignInScreen.png)
+
 - Başarılı bir şekilde kayıt olduk mesajını alıyoruz.
 ![SignIn](/EkranGörüntüleri/SignIn.png)
+
 - Login ekranımıza dönüp yanlış bi şifre ile girmeyi deneyelim hata alacağız.
 ![wrongPassword](/EkranGörüntüleri/wrongPassword.png)
+
 - Kayıt olduğumuz kullanıcı adı ve parola ile giriş yaptıktan sonra menu ekranı gelecektir. Buradan şifre oluşturmak için Create Password Butonuna tıklayalım.
 ![Menu](/EkranGörüntüleri/Menu.png)
+
 - Şifre ismimizi belirttikten sonra change butonu ile oluşturmak istediğimiz random parolalar arasında seçim yapalım ve kayıt et butonuna basalım.
 ![CreatePassword](/EkranGörüntüleri/CreatePassword.png)
+
 - Menu ekranına dönüp Show Password butonuna bastıktan sonra oluşturduğumuz şifreler burada görüntülenecekler.
 ![ShowPassword](/EkranGörüntüleri/ShowPassword.png)
+
 - Eğer istediğimiz şifreyi aramak istersek search kutucuğuna şifre adını yazmamız yeterli olacaktır.
 ![SearchPassword](/EkranGörüntüleri/SearchPassword.png)
 ![SearchPassword2](/EkranGörüntüleri/SearchPassword2.png)
